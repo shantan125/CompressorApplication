@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: CompressorApplication
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: DEBUG
+    org.hibernate: WARN
+  loggers:
+    com.freibu: DEBUG
+  file:
+    name: logs/compressor-application.log
+    max-size: 10MB
+    max-history: 30
+compressor:
+  image:
+    output-dir: "C:/Freibu-Image-Compressor-Image"
+

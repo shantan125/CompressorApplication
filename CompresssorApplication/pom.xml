@@ -73,8 +73,14 @@
             <scope>compile</scope>
         </dependency>
 
-        <!-- FFmpeg - External Library for Video Compression (Using Process Builder or wrapper) -->
-        <!-- You will need to handle FFmpeg via command-line or wrapper, so no direct Maven dependency is provided -->
+        <!-- Log4j 2 Dependency for Logging -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-log4j2</artifactId>
+        </dependency>
+
+        <!-- FFmpeg - External Library for Video Compression -->
+        <!-- Since FFmpeg is not directly available as a Maven dependency, we will handle it externally -->
     </dependencies>
 
     <build>

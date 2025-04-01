@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CompressorApplication.iml" filepath="$PROJECT_DIR$/.idea/CompressorApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompresssorApplication/CompresssorApplication.iml" filepath="$PROJECT_DIR$/CompresssorApplication/CompresssorApplication.iml" />
     </modules>
   </component>
 </project>
