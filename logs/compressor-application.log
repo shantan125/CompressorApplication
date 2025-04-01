@@ -1,0 +1,535 @@
+2025-04-01T13:16:48.367+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 15692 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T13:16:48.372+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T13:16:48.491+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T13:16:48.492+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T13:16:50.640+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T13:16:50.662+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T13:16:50.663+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T13:16:50.749+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T13:16:50.750+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2256 ms
+2025-04-01T13:16:51.055+05:30 DEBUG 15692 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T13:16:51.147+05:30 DEBUG 15692 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T13:16:51.181+05:30 DEBUG 15692 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T13:16:51.236+05:30 DEBUG 15692 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T13:16:51.381+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T13:16:51.439+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T13:16:51.451+05:30  INFO 15692 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 4.107 seconds (process running for 6.297)
+2025-04-01T13:35:31.464+05:30  INFO 15692 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T13:35:31.474+05:30  INFO 15692 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T13:35:44.444+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 14396 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T13:35:44.449+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T13:35:44.559+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T13:35:44.560+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T13:35:46.976+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T13:35:47.003+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T13:35:47.004+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T13:35:47.105+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T13:35:47.106+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2545 ms
+2025-04-01T13:35:47.422+05:30 DEBUG 14396 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T13:35:47.512+05:30 DEBUG 14396 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T13:35:47.545+05:30 DEBUG 14396 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T13:35:47.601+05:30 DEBUG 14396 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T13:35:47.702+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T13:35:47.760+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T13:35:47.779+05:30  INFO 14396 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 4.551 seconds (process running for 6.481)
+2025-04-01T13:37:29.816+05:30  INFO 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T13:37:29.816+05:30  INFO 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T13:37:29.817+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T13:37:29.817+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T13:37:29.817+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T13:37:29.818+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@6e5e20cd
+2025-04-01T13:37:29.819+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@5219d1bb
+2025-04-01T13:37:29.820+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T13:37:29.820+05:30  INFO 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2025-04-01T13:37:29.834+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T13:37:29.904+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T13:37:29.919+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T13:37:29.933+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T13:37:29.935+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T13:37:29.951+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T13:37:29.954+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T13:37:30.000+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T13:37:30.003+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 13:37:29 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T13:37:30.100+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T13:38:46.527+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T13:38:46.554+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T13:38:46.558+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T13:38:46.558+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T13:38:46.561+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T13:38:46.561+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T13:38:46.562+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T13:38:46.564+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T13:38:46.565+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 13:38:46 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T13:38:46.568+05:30 DEBUG 14396 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T13:49:20.457+05:30  INFO 14396 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T13:49:20.463+05:30  INFO 14396 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T13:49:35.497+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 15568 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T13:49:35.503+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T13:49:35.676+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T13:49:35.677+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T13:49:38.274+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T13:49:38.310+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T13:49:38.311+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T13:49:38.447+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T13:49:38.448+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2769 ms
+2025-04-01T13:49:38.929+05:30 DEBUG 15568 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T13:49:39.072+05:30 DEBUG 15568 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T13:49:39.131+05:30 DEBUG 15568 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T13:49:39.233+05:30 DEBUG 15568 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T13:49:39.380+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T13:49:39.460+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T13:49:39.481+05:30  INFO 15568 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 5.402 seconds (process running for 8.116)
+2025-04-01T13:49:44.009+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 11880 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T13:49:44.014+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T13:49:44.165+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T13:49:44.172+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T13:49:46.173+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T13:49:46.205+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T13:49:46.206+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T13:49:46.296+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T13:49:46.297+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2124 ms
+2025-04-01T13:49:46.569+05:30 DEBUG 11880 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T13:49:46.655+05:30 DEBUG 11880 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T13:49:46.690+05:30 DEBUG 11880 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T13:49:46.779+05:30 DEBUG 11880 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T13:49:46.896+05:30  WARN 11880 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2025-04-01T13:49:46.935+05:30  WARN 11880 --- [CompressorApplication] [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-04-01T13:49:46.962+05:30  INFO 11880 --- [CompressorApplication] [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-01T13:49:47.000+05:30 ERROR 11880 --- [CompressorApplication] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-04-01T13:50:02.250+05:30  INFO 15568 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T13:50:02.261+05:30  INFO 15568 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T13:50:15.308+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 14220 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T13:50:15.313+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T13:50:15.430+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T13:50:15.432+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T13:50:17.486+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T13:50:17.507+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T13:50:17.508+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T13:50:17.581+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T13:50:17.582+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2149 ms
+2025-04-01T13:50:17.866+05:30 DEBUG 14220 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T13:50:17.954+05:30 DEBUG 14220 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T13:50:17.991+05:30 DEBUG 14220 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T13:50:18.045+05:30 DEBUG 14220 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T13:50:18.164+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T13:50:18.221+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T13:50:18.233+05:30  INFO 14220 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 4.065 seconds (process running for 5.648)
+2025-04-01T13:53:49.976+05:30  INFO 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T13:53:49.977+05:30  INFO 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T13:53:49.978+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T13:53:49.979+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T13:53:49.979+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T13:53:49.980+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@de7a599
+2025-04-01T13:53:49.981+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@792322a2
+2025-04-01T13:53:49.982+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T13:53:49.982+05:30  INFO 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2025-04-01T13:53:49.997+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/api/v1/compress/image", parameters={multipart}
+2025-04-01T13:53:50.072+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T13:53:50.097+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T13:53:50.106+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T13:53:50.109+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T13:53:50.116+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={multipart}
+2025-04-01T13:53:50.119+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T13:53:50.168+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T13:53:50.172+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 13:53:50 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T13:53:50.252+05:30 DEBUG 14220 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:22:17.146+05:30  INFO 14220 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T22:22:17.155+05:30  INFO 14220 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T22:22:25.192+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 4044 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T22:22:25.197+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T22:22:25.308+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T22:22:25.309+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T22:22:27.591+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T22:22:27.615+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T22:22:27.616+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T22:22:27.708+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T22:22:27.710+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2400 ms
+2025-04-01T22:22:28.048+05:30 DEBUG 4044 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T22:22:28.155+05:30 DEBUG 4044 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T22:22:28.201+05:30 DEBUG 4044 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T22:22:28.280+05:30 DEBUG 4044 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T22:22:28.388+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T22:22:28.459+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T22:22:28.474+05:30  INFO 4044 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 4.423 seconds (process running for 6.132)
+2025-04-01T22:23:02.711+05:30  INFO 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T22:23:02.711+05:30  INFO 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T22:23:02.712+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T22:23:02.713+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T22:23:02.713+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T22:23:02.715+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@2befe30e
+2025-04-01T22:23:02.716+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@8b74497
+2025-04-01T22:23:02.717+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T22:23:02.718+05:30  INFO 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2025-04-01T22:23:02.747+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/api/v1/compress/image", parameters={multipart}
+2025-04-01T22:23:02.947+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T22:23:03.026+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T22:23:03.037+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T22:23:03.114+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T22:23:03.164+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={multipart}
+2025-04-01T22:23:03.168+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T22:23:03.329+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T22:23:03.333+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 22:23:03 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T22:23:03.433+05:30 DEBUG 4044 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:23:08.753+05:30  INFO 4044 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T22:23:08.775+05:30  INFO 4044 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T22:23:16.314+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 9372 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T22:23:16.319+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T22:23:16.463+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T22:23:16.464+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T22:23:18.912+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T22:23:19.030+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T22:23:19.034+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T22:23:19.232+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T22:23:19.232+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2766 ms
+2025-04-01T22:23:19.581+05:30 DEBUG 9372 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T22:23:19.700+05:30 DEBUG 9372 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T22:23:19.747+05:30 DEBUG 9372 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T22:23:19.852+05:30 DEBUG 9372 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T22:23:19.972+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T22:23:20.208+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T22:23:20.249+05:30  INFO 9372 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 5.219 seconds (process running for 7.248)
+2025-04-01T22:23:42.045+05:30  INFO 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T22:23:42.046+05:30  INFO 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T22:23:42.046+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T22:23:42.047+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T22:23:42.047+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T22:23:42.049+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@56b77ce3
+2025-04-01T22:23:42.050+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@4b8ae5fb
+2025-04-01T22:23:42.051+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T22:23:42.051+05:30  INFO 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2025-04-01T22:23:42.090+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : GET "/api/v1/compress/image", parameters={multipart}
+2025-04-01T22:23:42.170+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T22:23:42.187+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T22:23:42.198+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T22:23:42.201+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T22:23:42.210+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for GET "/error", parameters={multipart}
+2025-04-01T22:23:42.213+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T22:23:42.269+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T22:23:42.274+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 22:23:42 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T22:23:42.355+05:30 DEBUG 9372 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:23:56.209+05:30  INFO 9372 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T22:23:56.231+05:30  INFO 9372 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T22:24:03.161+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 2228 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T22:24:03.166+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T22:24:03.314+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-01T22:24:03.321+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-01T22:24:05.605+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T22:24:05.631+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T22:24:05.631+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T22:24:05.716+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T22:24:05.717+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2395 ms
+2025-04-01T22:24:06.061+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T22:24:06.182+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T22:24:06.221+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T22:24:06.304+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T22:24:06.411+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T22:24:06.480+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T22:24:06.495+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 4.561 seconds (process running for 6.517)
+2025-04-01T22:24:40.768+05:30  INFO 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T22:24:40.769+05:30  INFO 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T22:24:40.769+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T22:24:40.770+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T22:24:40.770+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T22:24:40.772+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@2911e438
+2025-04-01T22:24:40.773+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@16e1b5a3
+2025-04-01T22:24:40.773+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T22:24:40.773+05:30  INFO 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2025-04-01T22:24:40.790+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T22:24:40.872+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T22:24:40.890+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T22:24:40.903+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T22:24:40.907+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T22:24:40.918+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T22:24:40.922+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T22:24:40.987+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T22:24:40.992+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 22:24:40 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T22:24:41.095+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:24:43.649+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T22:24:43.677+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T22:24:43.678+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T22:24:43.679+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T22:24:43.683+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T22:24:43.684+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T22:24:43.685+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T22:24:43.687+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T22:24:43.690+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 22:24:43 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T22:24:43.695+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:27:48.050+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T22:27:48.056+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T22:27:48.063+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T22:27:48.064+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T22:27:48.069+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T22:27:48.070+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T22:27:48.073+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T22:27:48.075+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T22:27:48.075+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 22:27:48 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T22:27:48.081+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:30:14.331+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T22:30:14.337+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T22:30:14.340+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T22:30:14.341+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T22:30:14.343+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T22:30:14.344+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T22:30:14.345+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T22:30:14.347+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T22:30:14.348+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 22:30:14 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T22:30:14.351+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-9] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T22:49:29.606+05:30  INFO 2228 --- [CompressorApplication] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (0 additions, 5 deletions, 1 modification)
+2025-04-01T22:49:29.621+05:30  INFO 2228 --- [CompressorApplication] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T22:49:29.647+05:30  INFO 2228 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T22:49:29.959+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 2228 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T22:49:29.959+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T22:49:31.036+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T22:49:31.041+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T22:49:31.041+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T22:49:31.092+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T22:49:31.092+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1123 ms
+2025-04-01T22:49:31.183+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T22:49:31.244+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T22:49:31.254+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T22:49:31.270+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T22:49:31.336+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T22:49:31.366+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T22:49:31.384+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 1.609 seconds (process running for 1531.405)
+2025-04-01T22:49:31.389+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-04-01T22:49:33.792+05:30  INFO 2228 --- [CompressorApplication] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2025-04-01T22:49:33.795+05:30  INFO 2228 --- [CompressorApplication] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T22:49:33.801+05:30  INFO 2228 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T22:49:33.951+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 2228 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T22:49:33.952+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T22:49:34.679+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T22:49:34.682+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T22:49:34.683+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T22:49:34.751+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T22:49:34.751+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 792 ms
+2025-04-01T22:49:34.929+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T22:49:35.039+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T22:49:35.061+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T22:49:35.086+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T22:49:35.200+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T22:49:35.234+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T22:49:35.242+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 1.36 seconds (process running for 1535.263)
+2025-04-01T22:49:35.246+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-04-01T22:57:03.191+05:30  INFO 2228 --- [CompressorApplication] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 1 deletion, 1 modification)
+2025-04-01T22:57:03.194+05:30  INFO 2228 --- [CompressorApplication] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T22:57:03.206+05:30  INFO 2228 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T22:57:03.387+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 2228 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T22:57:03.388+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T22:57:04.140+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T22:57:04.143+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T22:57:04.143+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T22:57:04.276+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T22:57:04.277+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 856 ms
+2025-04-01T22:57:04.380+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T22:57:04.457+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T22:57:04.489+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T22:57:04.504+05:30 DEBUG 2228 --- [CompressorApplication] [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T22:57:04.608+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-04-01T22:57:04.629+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T22:57:04.636+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] c.f.c.CompresssorApplication             : Started CompresssorApplication in 1.328 seconds (process running for 1984.658)
+2025-04-01T22:57:04.640+05:30  INFO 2228 --- [CompressorApplication] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-04-01T23:01:44.334+05:30  INFO 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T23:01:44.334+05:30  INFO 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T23:01:44.334+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T23:01:44.335+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T23:01:44.335+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T23:01:44.336+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@27172cef
+2025-04-01T23:01:44.337+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@29d0d67d
+2025-04-01T23:01:44.337+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T23:01:44.337+05:30  INFO 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2025-04-01T23:01:44.338+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:01:44.348+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:01:44.352+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:01:44.353+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T23:01:44.354+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:01:44.355+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:01:44.356+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:01:44.363+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:01:44.366+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:01:44 IST 2025, status=404, error=Not Found, trace=org.springframework.web. (truncated)...]
+2025-04-01T23:01:44.375+05:30 DEBUG 2228 --- [CompressorApplication] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:01:54.475+05:30  INFO 2228 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T23:01:54.480+05:30  INFO 2228 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T23:02:08.859+05:30  INFO 11048 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 11048 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T23:02:08.866+05:30  INFO 11048 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T23:02:10.702+05:30  INFO 11048 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T23:02:10.733+05:30  INFO 11048 --- [CompressorApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T23:02:10.734+05:30  INFO 11048 --- [CompressorApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T23:02:10.835+05:30  INFO 11048 --- [CompressorApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T23:02:10.835+05:30  INFO 11048 --- [CompressorApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1850 ms
+2025-04-01T23:02:11.186+05:30 DEBUG 11048 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T23:02:11.281+05:30 DEBUG 11048 --- [CompressorApplication] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T23:02:11.325+05:30 DEBUG 11048 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T23:02:11.397+05:30 DEBUG 11048 --- [CompressorApplication] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T23:02:11.532+05:30  INFO 11048 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T23:02:11.546+05:30  INFO 11048 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Started CompresssorApplication in 3.715 seconds (process running for 5.761)
+2025-04-01T23:02:46.136+05:30  INFO 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T23:02:46.137+05:30  INFO 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T23:02:46.138+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T23:02:46.138+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T23:02:46.138+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T23:02:46.140+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@5af1b21f
+2025-04-01T23:02:46.140+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@71a1789
+2025-04-01T23:02:46.141+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T23:02:46.142+05:30  INFO 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2025-04-01T23:02:46.159+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:02:46.218+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:02:46.232+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:02:46.242+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T23:02:46.244+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:02:46.254+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:02:46.258+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:02:46.303+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:02:46.306+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:02:46 IST 2025, status=404, error=Not Found, path=/api/v1/compress/image}]
+2025-04-01T23:02:46.371+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:04:19.230+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:04:19.239+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:04:19.242+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:04:19.243+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T23:04:19.245+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:04:19.247+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:04:19.248+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:04:19.249+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:04:19.249+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:04:19 IST 2025, status=404, error=Not Found, path=/api/v1/compress/image}]
+2025-04-01T23:04:19.251+05:30 DEBUG 11048 --- [CompressorApplication] [http-nio-8080-exec-4] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:08:27.867+05:30  INFO 11048 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T23:08:27.878+05:30  INFO 11048 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T23:11:03.169+05:30  INFO 15276 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 15276 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T23:11:03.174+05:30  INFO 15276 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T23:11:05.028+05:30  INFO 15276 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T23:11:05.060+05:30  INFO 15276 --- [CompressorApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T23:11:05.061+05:30  INFO 15276 --- [CompressorApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T23:11:05.165+05:30  INFO 15276 --- [CompressorApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T23:11:05.166+05:30  INFO 15276 --- [CompressorApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1869 ms
+2025-04-01T23:11:05.472+05:30 DEBUG 15276 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T23:11:05.568+05:30 DEBUG 15276 --- [CompressorApplication] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T23:11:05.602+05:30 DEBUG 15276 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T23:11:05.673+05:30 DEBUG 15276 --- [CompressorApplication] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T23:11:05.803+05:30  INFO 15276 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T23:11:05.815+05:30  INFO 15276 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Started CompresssorApplication in 3.792 seconds (process running for 5.357)
+2025-04-01T23:11:19.655+05:30  INFO 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T23:11:19.656+05:30  INFO 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T23:11:19.657+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T23:11:19.657+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T23:11:19.657+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T23:11:19.658+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@3e594fcb
+2025-04-01T23:11:19.659+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@644d2863
+2025-04-01T23:11:19.659+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T23:11:19.659+05:30  INFO 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2025-04-01T23:11:19.673+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:11:19.729+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:11:19.744+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:11:19.756+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T23:11:19.758+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:11:19.766+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:11:19.770+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:11:19.815+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:11:19.818+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:11:19 IST 2025, status=404, error=Not Found, path=/api/v1/compress/image}]
+2025-04-01T23:11:19.885+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:12:27.508+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : POST "/image", parameters={multipart}
+2025-04-01T23:12:27.517+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:12:27.520+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:12:27.521+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource image.]
+2025-04-01T23:12:27.523+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:12:27.524+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:12:27.525+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:12:27.528+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:12:27.528+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:12:27 IST 2025, status=404, error=Not Found, path=/image}]
+2025-04-01T23:12:27.530+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:12:29.751+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : POST "/image", parameters={multipart}
+2025-04-01T23:12:29.760+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:12:29.761+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:12:29.762+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource image.]
+2025-04-01T23:12:29.763+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:12:29.764+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:12:29.765+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:12:29.766+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:12:29.766+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:12:29 IST 2025, status=404, error=Not Found, path=/image}]
+2025-04-01T23:12:29.767+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-6] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:12:40.796+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:12:40.815+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:12:40.826+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:12:40.827+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T23:12:40.829+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:12:40.830+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/error", parameters={multipart}
+2025-04-01T23:12:40.831+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:12:40.832+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:12:40.832+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:12:40 IST 2025, status=404, error=Not Found, path=/api/v1/compress/image}]
+2025-04-01T23:12:40.834+05:30 DEBUG 15276 --- [CompressorApplication] [http-nio-8080-exec-7] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:21:06.578+05:30  INFO 15276 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T23:21:06.585+05:30  INFO 15276 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T23:21:12.107+05:30  INFO 9516 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 9516 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T23:21:12.112+05:30 DEBUG 9516 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-04-01T23:21:12.113+05:30  INFO 9516 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T23:21:13.770+05:30  INFO 9516 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T23:21:13.808+05:30  INFO 9516 --- [CompressorApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T23:21:13.808+05:30  INFO 9516 --- [CompressorApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T23:21:13.878+05:30  INFO 9516 --- [CompressorApplication] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-04-01T23:21:13.879+05:30  INFO 9516 --- [CompressorApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1652 ms
+2025-04-01T23:21:14.172+05:30 DEBUG 9516 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T23:21:14.286+05:30 DEBUG 9516 --- [CompressorApplication] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T23:21:14.318+05:30 DEBUG 9516 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T23:21:14.373+05:30 DEBUG 9516 --- [CompressorApplication] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T23:21:14.521+05:30  INFO 9516 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-04-01T23:21:14.534+05:30  INFO 9516 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Started CompresssorApplication in 3.39 seconds (process running for 4.705)
+2025-04-01T23:28:37.199+05:30  INFO 9516 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T23:28:37.206+05:30  INFO 9516 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-04-01T23:28:47.404+05:30  INFO 13808 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Starting CompresssorApplication using Java 21.0.6 with PID 13808 (D:\Freibu\projects\CompressorApplication\CompresssorApplication\target\classes started by shant in D:\Freibu\projects\CompressorApplication)
+2025-04-01T23:28:47.408+05:30 DEBUG 13808 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Running with Spring Boot v3.4.4, Spring v6.2.5
+2025-04-01T23:28:47.410+05:30  INFO 13808 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : No active profile set, falling back to 1 default profile: "default"
+2025-04-01T23:28:49.174+05:30  INFO 13808 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-04-01T23:28:49.196+05:30  INFO 13808 --- [CompressorApplication] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-04-01T23:28:49.197+05:30  INFO 13808 --- [CompressorApplication] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-01T23:28:49.267+05:30  INFO 13808 --- [CompressorApplication] [main] o.a.c.c.C.[.[.[/api/v1/compress]         : Initializing Spring embedded WebApplicationContext
+2025-04-01T23:28:49.268+05:30  INFO 13808 --- [CompressorApplication] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1739 ms
+2025-04-01T23:28:49.557+05:30 DEBUG 13808 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 2 mappings in 'requestMappingHandlerMapping'
+2025-04-01T23:28:49.648+05:30 DEBUG 13808 --- [CompressorApplication] [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2025-04-01T23:28:49.690+05:30 DEBUG 13808 --- [CompressorApplication] [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2025-04-01T23:28:49.744+05:30 DEBUG 13808 --- [CompressorApplication] [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2025-04-01T23:28:49.867+05:30  INFO 13808 --- [CompressorApplication] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/api/v1/compress'
+2025-04-01T23:28:49.878+05:30  INFO 13808 --- [CompressorApplication] [main] c.f.c.CompresssorApplication             : Started CompresssorApplication in 3.412 seconds (process running for 4.695)
+2025-04-01T23:28:59.526+05:30  INFO 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/api/v1/compress]         : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-01T23:28:59.526+05:30  INFO 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-04-01T23:28:59.527+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2025-04-01T23:28:59.527+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected AcceptHeaderLocaleResolver
+2025-04-01T23:28:59.527+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2025-04-01T23:28:59.528+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@15a0a7ca
+2025-04-01T23:28:59.529+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@135015da
+2025-04-01T23:28:59.530+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-04-01T23:28:59.531+05:30  INFO 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2025-04-01T23:28:59.545+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:28:59.596+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:28:59.611+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:28:59.622+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource image.]
+2025-04-01T23:28:59.624+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:28:59.631+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/api/v1/compress/error", parameters={multipart}
+2025-04-01T23:28:59.635+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:28:59.679+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:28:59.683+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:28:59 IST 2025, status=404, error=Not Found, path=/api/v1/compress/image}]
+2025-04-01T23:28:59.747+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:31:35.408+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : POST "/api/v1/compress/api/v1/compress/image", parameters={multipart}
+2025-04-01T23:31:35.418+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]
+2025-04-01T23:31:35.423+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.r.ResourceHttpRequestHandler     : Resource not found
+2025-04-01T23:31:35.424+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/v1/compress/image.]
+2025-04-01T23:31:35.426+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Completed 404 NOT_FOUND
+2025-04-01T23:31:35.427+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : "ERROR" dispatch for POST "/api/v1/compress/error", parameters={multipart}
+2025-04-01T23:31:35.428+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2025-04-01T23:31:35.429+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2025-04-01T23:31:35.429+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [{timestamp=Tue Apr 01 23:31:35 IST 2025, status=404, error=Not Found, path=/api/v1/compress/api/v1/c (truncated)...]
+2025-04-01T23:31:35.431+05:30 DEBUG 13808 --- [CompressorApplication] [http-nio-8080-exec-5] o.s.web.servlet.DispatcherServlet        : Exiting from "ERROR" dispatch, status 404
+2025-04-01T23:32:03.198+05:30  INFO 13808 --- [CompressorApplication] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-01T23:32:03.207+05:30  INFO 13808 --- [CompressorApplication] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
