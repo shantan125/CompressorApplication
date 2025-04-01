@@ -29,4 +29,4 @@ To run the Compressor Application, you’ll need:
 1. **Clone the Repository**  
    Clone the project to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/compressor-app.git
+   git clone https://github.com/shantan125/CompressorApplication.git
